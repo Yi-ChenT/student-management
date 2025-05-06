@@ -25,3 +25,4 @@ It demonstrates structured data handling with struct, robust string/file I/O, an
 
 - Defensive Coding – caps on class size, newline stripping, and format validation during load.
  
+Feel free to clone, fork, or extend—add GPA weighting, CSV export, or a GUI front‑end!
