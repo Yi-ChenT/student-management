@@ -24,5 +24,7 @@ It demonstrates structured data handling with struct, robust string/file I/O, an
 - Algorithms – custom bubble sort (descending averages) and linear search by name.
 
 - Defensive Coding – caps on class size, newline stripping, and format validation during load.
+
+<hr/>
  
 Feel free to clone, fork, or extend—add GPA weighting, CSV export, or a GUI front‑end!
